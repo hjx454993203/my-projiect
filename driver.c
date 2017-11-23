@@ -5,7 +5,11 @@
 #include "com.h"
 
 //modify;
+<<<<<<< HEAD
 //hello
+=======
+
+>>>>>>> 1
 void TurnOn_StmCof_Heater(void)
 {
 	switch(cnt_stm_time)

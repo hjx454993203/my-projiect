@@ -4,7 +4,11 @@
 #define  _DRIVER_SRC_
 #include "com.h"
 
+<<<<<<< HEAD
 //modify;
+=======
+
+>>>>>>> 1
 
 void TurnOn_StmCof_Heater(void)
 {
